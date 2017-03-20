@@ -4,12 +4,12 @@ to run you'll need to add the hidden files, not using them at the moment but if 
 files to add
 
 .env
-===> inside of it add 
+===> inside of it add this line
 
 Password=HOLDER
 
 .gitingnore
-===> inside of it add 
+===> inside of it add these 2 lines
 
 node_modules/
 
