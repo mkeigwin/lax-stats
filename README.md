@@ -5,11 +5,14 @@ files to add
 
 .env
 ===> inside of it add 
+
 Password=HOLDER
 
 .gitingnore
 ===> inside of it add 
+
 node_modules/
+
 .env
 
 
