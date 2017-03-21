@@ -21,3 +21,7 @@ npm i
 nodemon
 then go onto chrome or whatever and type this in browswer to see
 http://localhost:3000/
+
+
+
+***Instead of showing all or only a few, could increase the number of scores shown by a certain number everytime by changing the howMuchShow variable in the eventListeners
